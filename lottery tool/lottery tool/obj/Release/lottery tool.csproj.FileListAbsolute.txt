@@ -1,0 +1,15 @@
+D:\c++\c沙浦\lottery tool\lottery tool\bin\Release\lottery tool.exe.config
+D:\c++\c沙浦\lottery tool\lottery tool\bin\Release\lottery tool.exe
+D:\c++\c沙浦\lottery tool\lottery tool\bin\Release\lottery tool.pdb
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery tool.csprojAssemblyReference.cache
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\MainWindow.g.cs
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\App.g.cs
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery tool_MarkupCompile.cache
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery tool_MarkupCompile.lref
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\MainWindow.baml
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery tool.g.resources
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery_tool.Properties.Resources.resources
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery tool.csproj.GenerateResource.cache
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery tool.csproj.CoreCompileInputs.cache
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery tool.exe
+D:\c++\c沙浦\lottery tool\lottery tool\obj\Release\lottery tool.pdb
